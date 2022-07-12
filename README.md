@@ -1,19 +1,13 @@
-   <h1> Hi there 👋 my name's Walter Teixeira </h2>
 
-    <br>
-    <h2>Here are some things about me:</h2> 
-    
-    
-    **WalterTeixeira/WalterTeixeira** is a my respository ✨ _special_ ✨ check my GitHub profile.
-    
-    so let's go:
 
-<!--
-**WalterTeixeira/WalterTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h1>**WalterTeixeira** is a my ✨ _special_ ✨ profile in GitHub</h1>
+
+<h2>look my profile!, let's go</h2>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+<!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

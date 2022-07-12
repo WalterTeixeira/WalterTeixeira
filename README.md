@@ -43,7 +43,7 @@ Here are some ideas to get you started:
       <a href="https://www.linkedin.com/in/walter-teixeira-4a607a1a5" target="_blank"><img src="https://img.shields.io/badge
 </div>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/WalterTeixeira/count.svg" /></p>
 
 
 ![snake gif](https://github.com/WalterTeixeira/WalterTeixeira/blob/output/github-contribution-grid-snake.svg)

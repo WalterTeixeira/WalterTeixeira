@@ -1,7 +1,7 @@
 
 
 
-<h1>**WalterTeixeira** is a my ✨ _special_ ✨ profile in GitHub</h1>
+<h1>✨ My name's is Walter Teixeira, this is my profilhe in GitHub  ✨</h1>
 
 <h2>look my profile!, let's go</h2>
 

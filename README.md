@@ -46,3 +46,5 @@
 
 
 ![snake gif](https://github.com/WalterTeixeira/WalterTeixeira/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=walterteixeira&repo=walterteixeira&theme=react)](https://github.com/walterteixeira/walterteixeira)
